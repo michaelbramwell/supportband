@@ -1,0 +1,6 @@
+﻿client_secrets.json
+Logs/log-*.txt
+bin/*
+obj/*
+.DS_Store
+.vscode/*

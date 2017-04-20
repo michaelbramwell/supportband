@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7A35D7BC-FF68-48DE-805C-BC75FE3BAF0B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="support-band Status">
+    <Files>
+      <File FileName="support-band Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SupportBand PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
